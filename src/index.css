@@ -23,3 +23,8 @@ body{
     transform: translateY(3px);
   }
 }
+
+a{
+  text-transform: none;
+  text-decoration: none;
+}
